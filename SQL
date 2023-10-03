@@ -1,0 +1,4 @@
+*Commands Run:*
+
+ALTER TABLE TelcoCustomerChurn ALTER COLUMN SeniorCitizen nvarchar NOT NULL;
+
